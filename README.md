@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/faradilla22">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Faradilla" alt="Hello! I&#39;m Faradilla" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ec4899&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Faradilla" alt="Hello! I&#39;m Faradilla" />
   </a>
 </p>
 
